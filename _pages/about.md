@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>**University of Zürich**</p>
+    <p>University of Zürich*/p>
     <p>Plattenstrasse 14, 8032</p>
     <p>Zürich, Switzerland</p>
 
