@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>University of Zürich*/p>
+    <p>University of Zürich</p>
     <p>Plattenstrasse 14, 8032</p>
     <p>Zürich, Switzerland</p>
 
@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a doctoral candidate at the Chair of Marketing for Social Impact, University of Zürich, studying how (AI-driven) technology can be designed to help people achieve their goals. Drawing on cognitive and behavioral science, I examine two settings: consumers discovering products through recommender systems and AI assistants, and learners acquiring new skills through AI tutors. Methodologically, I work with field and lab experiments as well as observational data.
+I am a doctoral candidate at the **Chair of Marketing for Social Impact, University of Zürich**, studying how (AI-driven) technology can be designed to help people achieve their goals. Drawing on cognitive and behavioral science, I currently examine two settings: consumers discovering products with recommender systems and AI assistants, and learners acquiring new skills with AI tutors. Methodologically, I work with field and lab experiments as well as observational data.
