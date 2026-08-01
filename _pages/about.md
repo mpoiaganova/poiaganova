@@ -9,7 +9,6 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of Business Administration</p>
     <p>University of Zürich</p>
     <p>Plattenstrasse 14 8032</p>
     <p>Zürich, Switzerland</p>
@@ -27,3 +26,5 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+I am a doctoral candidate at the Chair of Marketing for Social Impact, University of Zürich, researching how (AI-driven) technology can be designed to help people achieve their goals. I study two application domains: consumers discovering products through recommender systems and AI assistants, and learners acquiring new skills through AI tutors. Theoretically, I draw on cognitive and behavioral science; methodologically, I rely on randomized controlled trials and observational data.
