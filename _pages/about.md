@@ -28,3 +28,5 @@ latest_posts:
 ---
 
 I am a doctoral candidate at the **Chair of Marketing for Social Impact, University of Zürich**, studying how (AI-driven) technology can be designed to help people achieve their goals. Drawing on cognitive and behavioral science, I currently examine two settings: consumers discovering products with recommender systems and AI assistants, and learners acquiring new skills with AI tutors. Methodologically, I work with field and lab experiments as well as observational data.
+
+I am always happy to exchange ideas! Feel free to reach out to me at **maria.poiaganova@business.uzh.ch**
